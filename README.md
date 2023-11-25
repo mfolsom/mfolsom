@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there, I'm Megan 👋
+🌱 I’m currently learning Typescript, React, Python, Unreal Engine
+🎨 Find me on [ArtStation](https://meganfolsom6.artstation.com)
 
 <!--
 **mfolsom/mfolsom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
