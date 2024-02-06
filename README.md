@@ -9,6 +9,8 @@ I'm a software developer with a background in product management. I have success
 - 🎨 Find me on [ArtStation](https://meganfolsom6.artstation.com)
 - :video_game: Check out my [global game jam project](https://globalgamejam.org/games/2024/spacehopper-2)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=we+are+such+stuff+as+dreams+are+made+of..." alt="Typing SVG" /></a>
+
 <!--
 **mfolsom/mfolsom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
