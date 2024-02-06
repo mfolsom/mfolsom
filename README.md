@@ -5,7 +5,9 @@ I'm a software developer with a background in product management. I have success
 
 - 🌱 I’m currently learning:
   - Improving my engineering skills
+  - 3D modelling
 - 🎨 Find me on [ArtStation](https://meganfolsom6.artstation.com)
+- :video_game: Check out my [global game jam project] (https://globalgamejam.org/games/2024/spacehopper-2)
 
 <!--
 **mfolsom/mfolsom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
