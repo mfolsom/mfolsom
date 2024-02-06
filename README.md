@@ -3,7 +3,8 @@
 ## About me ##
 I'm a software developer with a background in product management. I have successfully developed and launched several web and mobile applications, as well as APIs. I embrace challenging problems. I have a strong history of working with teams to tackle difficult technical problems and I don't mind a good whiteboard session to talk through class design, database schema's, or state management. 
 
-- 🌱 I’m currently learning Typescript, React, Python, Unreal Engine, C++
+- 🌱 I’m currently learning:
+  - Improving my engineering skills
 - 🎨 Find me on [ArtStation](https://meganfolsom6.artstation.com)
 
 <!--
